@@ -58,8 +58,10 @@ table {
 #canvas1 {
   border: 2px black solid;
   background-color: #8fb526;
-	width: 1000px;
-	height: 500px;
+	position: sticky;
+	/* margin: 20% 20% 10% 10%; */
+	width: 500px;
+	height: 200px;
 }
 
 @media only screen and (min-width: 1024px) and (min-height: 600px){
